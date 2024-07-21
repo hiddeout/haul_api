@@ -9,7 +9,7 @@ Installing
 **Python 3.8 or higher is required**
 
 ```sh
-pip install git+https://github.com/evictbot/Haul.api
+pip install git+https://github.com/hiddeout/haul_api
 ```
 
 Usage example (Screenshot endpoint)
