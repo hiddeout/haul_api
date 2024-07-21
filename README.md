@@ -1,7 +1,7 @@
 Haul-api
 ==========
 
-A Python API wrapper for [Haul's API](https://api.haul.digital/)
+A Python API wrapper for [Haul's API](https://api.haul.digital/) a for of kure.api
 
 Installing
 ==========
